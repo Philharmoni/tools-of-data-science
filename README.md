@@ -2,5 +2,7 @@
 some operation record in class
 
 I'd like to do some statistical calculating.
-Lakers is alaways champion.
 Beat LA.
+
+new edits
+How do the Git get in touch with Github?
