@@ -1,8 +1,8 @@
 # tools-of-data-science
 some operation record in class
 
-*The first class
-
+The first class
+---
 practice using Linux
 ===
 *The second class
