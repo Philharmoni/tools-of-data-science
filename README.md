@@ -4,11 +4,11 @@ some operation record in class
 The first class
 ---
 practice using Linux
-===
+
 *The second class
 ---
 practice using Git Bash
-===
+
 *The third class
 ===
 
