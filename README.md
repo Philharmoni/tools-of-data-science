@@ -16,6 +16,5 @@ practice using Git Bash
 I'd like to do some statistical calculating.
 ===
 And
-Lakers is alaways champion.
-
+Lakers is alaways champion. 
 Beat LA.
