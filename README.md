@@ -5,11 +5,11 @@ The first class
 ---
 practice using Linux
 
-*The second class
+* The second class
 ---
 practice using Git Bash
 
-*The third class
+* The third class
 ===
 
 
